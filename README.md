@@ -19,9 +19,9 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stdSheraz&style=for-the-badge&logo=github" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/stdSheraz?style=for-the-badge&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/stdSheraz?style=for-the-badge&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadsheraz-badrtechnology&style=for-the-badge&logo=github" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/muhammadsheraz-badrtechnology?style=for-the-badge&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/muhammadsheraz-badrtechnology?style=for-the-badge&logo=github" alt="stars" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -85,14 +85,14 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stdSheraz&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadsheraz-badrtechnology&show_icons=true&theme=midnight-purple&hide_border=true" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stdSheraz&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsheraz-badrtechnology&theme=midnight-purple&hide_border=true" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdSheraz&theme=midnight-purple&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsheraz-badrtechnology&theme=midnight-purple&hide_border=true&layout=compact" />
 
 </td>
 </tr>
