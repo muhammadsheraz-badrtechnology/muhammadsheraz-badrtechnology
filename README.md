@@ -87,7 +87,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadsheraz-badrtechnology&show_icons=true&theme=midnight-purple&hide_border=true" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsheraz-badrtechnology&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stdSheraz&theme=midnight-purple&hide_border=true" />
 
 </td>
 <td width="50%" align="center">
